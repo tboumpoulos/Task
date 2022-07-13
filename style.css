@@ -1,0 +1,13 @@
+nav{
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    border-bottom: 1px gray solid;
+}
+
+.navbar-brand{
+    padding-left: 100px;
+}
+
+.nav-item{
+    padding-right: 400px;
+}
